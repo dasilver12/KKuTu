@@ -1,0 +1,8 @@
+ {
+	"ADMIN": [ "postgres","24140705" ],
+	"MAIN_PORTS": [ 8080 ],
+	"KKUTUHOT_PATH": "/kkutu/data/kkutuhot.json",
+	"PASS":"yh1023",
+	"PG_PASS": "yh1023",
+	"PG_PORT": 5432
+}
